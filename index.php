@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html>
-  <Title>BravoHome</Title>
-  <h1>BravoHome</h1>
+  <head>
+    <title>BravoHome</title>
+  </head>
+  <body>
+    <h1>BravoHome</h1>
+  </body>
 </html>
